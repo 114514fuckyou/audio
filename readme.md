@@ -23,3 +23,8 @@ body {
     在此期间访问不受影响<audio controls src="../../audio/IMA.m4a"></audio>
 </body>
 </html>
+<template>
+  <div class="email-container">
+    <img id="email-img" src="./image/qvnidayede.gif" >
+  </div>
+</template>
